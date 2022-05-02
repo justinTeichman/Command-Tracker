@@ -16,5 +16,4 @@ Steps to build and execute project:
 	3. Execute: make
 	4. Execute: ./CommandGUI
 
-Please note that cd does not work and you cannot navigate directories.
 Clear is not implemented as command but rather a function that clears the GUI text box.
